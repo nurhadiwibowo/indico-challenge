@@ -29,6 +29,15 @@
 - Masih terdapat beberapa `any` type
 - I dont know why, after deleting node_modules and install it again suddenly eslint showing hundreds error. But still working
 
+## Beberapa kekurangan
+
+- React Context
+- Zod
+- React-hook-form
+- Firebase (firebase auth for magic link, firestore)
+
+*notes: Pada email login akan muncul `nabitu-challenge` karena menggunakan projectid yg sama dengan test saya ditempat lain
+
 ## License
 
 Distributed under the [MIT](https://github.com/minimal-ui-kit/minimal.free/blob/main/LICENSE.md) license.
